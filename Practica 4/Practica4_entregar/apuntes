@@ -1,0 +1,3 @@
+Para ver el codigo ensamblador layout asm
+Para ver los registros layout regs
+Para cambiar el valor de un registro set $eax=br
